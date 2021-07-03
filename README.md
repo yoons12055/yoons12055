@@ -9,7 +9,7 @@
 
 ## 📫 How to reach me : yoons12055@gmail.com, https://www.linkedin.com/in/jinwoo-yoon
 
-# Projects I have done so far
+# Projects
 ## 1. Predictions on the Confirmed and Death COVID-19 Cases in the US
 ## 2. Predictions on Wine Quality
 ## 3. Predictions on Scores Scored by UC Basketball Teams
