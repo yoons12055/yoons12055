@@ -5,7 +5,7 @@ Python(Jupyter, NumPy, Pandas, Scikit-learn, Seaborn, Matplotlib), R(R-Studio), 
 📫 How to reach me : yoons12055@gmail.com / https://www.linkedin.com/in/jinwoo-yoon
 
                                               Projects
-Predictions on the Confirmed and Death COVID-19 cases
-Predictions on Wine Quality
-Predictions on scores scored by UC Basketball teams next season
-Visualization on Indigenous Brands and Social Movements
+1. Predictions on the Confirmed and Death COVID-19 cases
+2. Predictions on Wine Quality
+3. Predictions on scores scored by UC Basketball teams next season
+4. Visualization on Indigenous Brands and Social Movements
