@@ -2,9 +2,9 @@
 ### 👋 Hi, I’m Jinwoo(Roy) Yoon 👀 I am a third-year majoring in Data Science at UC Berkeley. 
 ### I am currently taking an year off from school due to Korean military service. After the service ends, I am planning to go back to the States. 
 # Interests 
-## Data Mining, Data Analysis, Data Analytics, Data Visualization, and Machine Learning.
+### Data Mining, Data Analysis, Data Analytics, Data Visualization, and Machine Learning.
 # Skills
-## Python(Jupyter, NumPy, Pandas, Scikit-learn, Seaborn, Matplotlib, Re), R(R-Studio, ggplot), Java(Intellij), Microsoft Office(Word, Excel, Powerpoint), SQL(MS SQL, MySQL, PostgreSQL), Data Visualization(Tableau, PowerBI, Datawrapper)
+### Python(Jupyter, NumPy, Pandas, Scikit-learn, Seaborn, Matplotlib, Re), R(R-Studio, ggplot), Java(Intellij), Microsoft Office(Word, Excel, Powerpoint), SQL(MS SQL, MySQL, PostgreSQL), Data Visualization(Tableau, PowerBI, Datawrapper)
 
 ## 📫 How to reach me : yoons12055@gmail.com, https://www.linkedin.com/in/jinwoo-yoon
 
