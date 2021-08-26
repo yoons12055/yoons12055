@@ -1,7 +1,7 @@
 # About Me!
 ### 👋 Hi, I’m Jinwoo(Roy) Yoon 👀 I am an upcoming third-year majoring in Data Science at UC Berkeley. 
 ### I am currently taking an year off from school due to Korean military service. 
-## As soon as the service ends, I am planning to go back to the States. No Sponsorship needed!!! I am a permanent resident of the United States.
+### As soon as the service ends, I am planning to go back to the States. No Sponsorship needed!!! I am a permanent resident of the United States.
 # Interests 
 ### Data Mining, Data Analysis, Data Analytics, Data Visualization, Machine Learning, Actuarial Science
 # Skills
