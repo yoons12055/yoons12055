@@ -5,7 +5,7 @@ As an enthusiastic and fast-paced learner, I am so ready to learn a lot of new s
 
 ### No Sponsorship needed!!! I am a Green Card Holder.
 
-## [Resume]()
+## [Resume](https://github.com/yoons12055/Jinwoo-Yoon-Resume/blob/main/Jinwoo-Yoon-Resume.pdf)
 
 ## Interests 
 Data Analysis, Data Analytics, Data Engineering, Data Visualization, Machine Learning
