@@ -56,8 +56,7 @@ As an **enthusiastic and fast-paced learner**, I am so ready to learn a lot of n
 - **Data Wrapper** 
   - Watched a youtube video "Datawrapper Training - full video"
 - **MySQL & PostgreSQL**
-  - Took Udemy Online Courses "The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert"
-  - "The Complete SQL Bootcamp 2022: Go from Zero to Hero"
+  - Took Udemy Online Courses "The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert" & "The Complete SQL Bootcamp 2022: Go from Zero to Hero"
 - **Data Structures**
   - Reviewed & Studied through Programiz Website Tutorial
 - **NoSQL (MongoDB), Data Warehousing, Business Intelligence**
