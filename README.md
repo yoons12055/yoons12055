@@ -36,7 +36,7 @@ Data Analysis, Data Analytics, Data Engineering, Data Visualization, Machine Lea
 
 - [Predictions on Wine Quality](https://github.com/yoons12055/Wine-Quality-Project)
 
-- [Predictions on Scores Scored by UC Basketball Teams]()
+- [Predictions on Scores Scored by UC Basketball Teams](https://github.com/yoons12055/UC-Basketball-Scores-Project)
 
 - [Visualization on Indigenous Brands and Social Movements](https://github.com/yoons12055/Indigenous-Brands-Project)
 
