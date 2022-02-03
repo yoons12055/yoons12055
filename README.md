@@ -38,7 +38,7 @@ Data Analysis, Data Analytics, Data Engineering, Data Visualization, Machine Lea
 
 - [Predictions on Scores Scored by UC Basketball Teams]()
 
-- [Visualization on Indigenous Brands and Social Movements]()
+- [Visualization on Indigenous Brands and Social Movements](https://github.com/yoons12055/Indigenous-Brands-Project)
 
 - [Visualization of Homeless People in the United States]()
 
