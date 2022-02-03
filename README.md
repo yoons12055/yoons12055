@@ -34,7 +34,7 @@ Data Analysis, Data Analytics, Data Engineering, Data Visualization, Machine Lea
 ## Projects
 - [Predictions on the Confirmed and Death COVID-19 Cases in the US](https://github.com/yoons12055/COVID19-Project)
 
-- [Predictions on Wine Quality]()
+- [Predictions on Wine Quality](https://github.com/yoons12055/Wine-Quality-Project)
 
 - [Predictions on Scores Scored by UC Basketball Teams]()
 
