@@ -32,15 +32,15 @@ Data Analysis, Data Analytics, Data Engineering, Data Visualization, Machine Lea
 
 
 ## Projects
-- Predictions on the Confirmed and Death COVID-19 Cases in the US
+- [Predictions on the Confirmed and Death COVID-19 Cases in the US](https://github.com/yoons12055/COVID19-Project)
 
-- Predictions on Wine Quality
+- [Predictions on Wine Quality]()
 
-- Predictions on Scores Scored by UC Basketball Teams
+- [Predictions on Scores Scored by UC Basketball Teams]()
 
-- Visualization on Indigenous Brands and Social Movements
+- [Visualization on Indigenous Brands and Social Movements]()
 
-- Visualization of Homeless People in the United States
+- [Visualization of Homeless People in the United States]()
 
 ## What I have Self-Taught 
 - Microsoft Excel
