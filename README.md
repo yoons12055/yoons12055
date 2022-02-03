@@ -52,10 +52,11 @@ Data Analysis, Data Analytics, Data Engineering, Data Visualization, Machine Lea
 - Data Wrapper 
   - Watched a youtube video "Datawrapper Training - full video"
 - MySQL & PostgreSQL
-  - Took an Udemy Online Course "The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert" & "The Complete SQL Bootcamp 2022: Go from Zero to Hero"
+  - Took Udemy Online Courses "The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert"
+  - "The Complete SQL Bootcamp 2022: Go from Zero to Hero"
 - Data Structures
   - Reviewed & Studied through Programiz Website Tutorial
-- Nosql
+- NoSQL
   - Studied through Guru99 Website Tutorial
 - Data Warehousing
   - Studied through Guru99 Website Tutorial
