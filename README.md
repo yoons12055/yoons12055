@@ -3,7 +3,7 @@
 
 As an **enthusiastic and fast-paced learner**, I am so ready to learn a lot of new skills and technologies. With high aspiration for a career in the data science, I am currently developing my own technical skills through taking courses from Udemy and watching educational Youtube videos while participating in military service in South Korea. I am currently looking for an internship opportunity requiring education from college and by myself. 
 
-### No Sponsorship needed!!! I am a Green Card Holder.
+### No Sponsorship Needed! I am a Green Card Holder.
 
 ## [Resume](https://github.com/yoons12055/Jinwoo-Yoon-Resume/blob/main/Jinwoo-Yoon-Resume.pdf)
 
