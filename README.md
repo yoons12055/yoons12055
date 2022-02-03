@@ -5,7 +5,7 @@ As an enthusiastic and fast-paced learner, I am so ready to learn a lot of new s
 
 ### No Sponsorship needed!!! I am a Green Card Holder.
 
-## Resume
+## [Resume](https://docs.google.com/document/d/12xFB6dkuFIUGe55xIPfzs48smhuD6NAHQ-EWuGUIWnA/edit)
 
 ## Interests 
 Data Analysis, Data Analytics, Data Engineering, Data Visualization, Machine Learning
