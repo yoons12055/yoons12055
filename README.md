@@ -58,7 +58,7 @@ Data Analysis, Data Analytics, Data Engineering, Data Visualization, Machine Lea
   - "The Complete SQL Bootcamp 2022: Go from Zero to Hero"
 - Data Structures
   - Reviewed & Studied through Programiz Website Tutorial
-- NoSQL
+- NoSQL (MongoDB)
   - Studied through Guru99 Website Tutorial
 - Data Warehousing
   - Studied through Guru99 Website Tutorial
@@ -66,4 +66,5 @@ Data Analysis, Data Analytics, Data Engineering, Data Visualization, Machine Lea
 ## Plans
 - Plan to take an Udemy Course (Already Bought) Docker Mastery: with Kubernetes + Swarm from a Docker Captain
 - Plan to take an Udemy Course (Already Bought) Ultimate AWS Certified Cloud Practitioner - 2022
+- Plan to study NoSQL(Cassandra) through Guru 99 Website Tutorial
 - After graduation, I am planning to go to graduate program in Data Science.
