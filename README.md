@@ -68,5 +68,6 @@ Data Analysis, Data Analytics, Data Engineering, Data Visualization, Machine Lea
 ## Plans
 - Plan to take an Udemy Course (Already Bought) Docker Mastery: with Kubernetes + Swarm from a Docker Captain
 - Plan to take an Udemy Course (Already Bought) Ultimate AWS Certified Cloud Practitioner - 2022
+- Aim to earn AWS Cloud Practitioner Certification
 - Plan to study NoSQL(Cassandra) through Guru 99 Website Tutorial
 - After graduation, I am planning to go to graduate program in Data Science.
