@@ -40,7 +40,7 @@ Data Analysis, Data Analytics, Data Engineering, Data Visualization, Machine Lea
 
 - [Visualization on Indigenous Brands and Social Movements](https://github.com/yoons12055/Indigenous-Brands-Project)
 
-- [Visualization of Homeless People in the United States]()
+- [Visualization of Homeless People in the United States](https://github.com/yoons12055/Homeless_Visualization)
 
 ## What I have Self-Taught 
 - Microsoft Excel
