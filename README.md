@@ -32,15 +32,15 @@ As an **enthusiastic and fast-paced learner**, I am so ready to learn a lot of n
 
 
 ## Projects
-- **[Predictions on the Confirmed and Death COVID-19 Cases in the US]**(https://github.com/yoons12055/COVID19-Project)
+- **[Predictions on the Confirmed and Death COVID-19 Cases in the US](https://github.com/yoons12055/COVID19-Project)**
 
-- **[Predictions on Wine Quality]**(https://github.com/yoons12055/Wine-Quality-Project)
+- **[Predictions on Wine Quality](https://github.com/yoons12055/Wine-Quality-Project)**
 
-- **[Predictions on Scores Scored by UC Basketball Teams]**(https://github.com/yoons12055/UC-Basketball-Scores-Project)
+- **[Predictions on Scores Scored by UC Basketball Teams](https://github.com/yoons12055/UC-Basketball-Scores-Project)**
 
-- **[Visualization on Indigenous Brands and Social Movements]**(https://github.com/yoons12055/Indigenous-Brands-Project)
+- **[Visualization on Indigenous Brands and Social Movements](https://github.com/yoons12055/Indigenous-Brands-Project)**
 
-- **[Visualization of Homeless People in the United States]**(https://github.com/yoons12055/Homeless_Visualization)
+- **[Visualization of Homeless People in the United States](https://github.com/yoons12055/Homeless_Visualization)**
 
 ## What I have Self-Taught 
 - **Microsoft Excel**
@@ -60,7 +60,7 @@ As an **enthusiastic and fast-paced learner**, I am so ready to learn a lot of n
   - "The Complete SQL Bootcamp 2022: Go from Zero to Hero"
 - **Data Structures**
   - Reviewed & Studied through Programiz Website Tutorial
-- **NoSQL (MongoDB), Data Warehousing, Business Intelligence **
+- **NoSQL (MongoDB), Data Warehousing, Business Intelligence**
   - Studied through Guru99 Website Tutorial
 
 ## Plans
