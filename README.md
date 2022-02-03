@@ -24,7 +24,7 @@ Data Analysis, Data Analytics, Data Engineering, Data Visualization, Machine Lea
 - NoSQL
   - MongoDB
 
-📫 How to reach me : yoons12055@gmail.com, https://www.linkedin.com/in/jinwoo-yoon
+📫 How to reach me : yoons12055@gmail.com  /  https://www.linkedin.com/in/jinwoo-yoon
 
 ## Resume
 
