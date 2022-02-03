@@ -10,7 +10,7 @@ Data Analysis, Data Analytics, Data Engineering, Data Visualization, Machine Lea
 
 ## Skills
 - Python
-  - NumPy, Pandas, SciPy, Scikit-learn, Seaborn, Matplotlib, Tensorflow 
+  - NumPy, Pandas, SciPy, Scikit-learn, Seaborn, Matplotlib, Tensorflow
 - R 
   - R-Studio
 - Java 
@@ -43,6 +43,8 @@ Data Analysis, Data Analytics, Data Engineering, Data Visualization, Machine Lea
 ## What I have Self-Taught 
 - Microsoft Excel
   - Took an Udemy Online Course "Microsoft Excel - Excel from Beginner to Advanced"
+
+
 - R Programming
   - Took an Udemy Online Course "R Programming A-Z™: R For Data Science With Real Exercises!" 
 - Tableau 
