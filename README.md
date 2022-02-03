@@ -39,3 +39,8 @@ Data Analysis, Data Analytics, Data Engineering, Data Visualization, Machine Lea
 - Visualization on Indigenous Brands and Social Movements
 
 - Visualization of Homeless People in the United States
+
+## Plans
+- Plan to take an Udemy Course (Already Bought) Docker Mastery: with Kubernetes + Swarm from a Docker Captain
+- Plan to take an Udemy Course (Already Bought) Ultimate AWS Certified Cloud Practitioner - 2022
+- After graduation, I am planning to go to graduate program in Data Science.
