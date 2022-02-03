@@ -40,6 +40,26 @@ Data Analysis, Data Analytics, Data Engineering, Data Visualization, Machine Lea
 
 - Visualization of Homeless People in the United States
 
+## What I have Self-Taught 
+- Microsoft Excel
+  - Took an Udemy Online Course "Microsoft Excel - Excel from Beginner to Advanced"
+- R Programming
+  - Took an Udemy Online Course "R Programming A-Z™: R For Data Science With Real Exercises!" 
+- Tableau 
+  - Watched a youtube video "Tableau Full Course - Learn Tableau in 6 Hours | Tableau Training for Beginners | Edureka"
+- Power BI 
+  - Watched a youtube video "Power BI Tutorial From Beginner to Pro"
+- Data Wrapper 
+  - Watched a youtube video "Datawrapper Training - full video"
+- MySQL & PostgreSQL
+  - Took an Udemy Online Course "The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert" & "The Complete SQL Bootcamp 2022: Go from Zero to Hero"
+- Data Structures
+  - Reviewed & Studied through Programiz Website Tutorial
+- Nosql
+  - Studied through Guru99 Website Tutorial
+- Data Warehousing
+  - Studied through Guru99 Website Tutorial
+
 ## Plans
 - Plan to take an Udemy Course (Already Bought) Docker Mastery: with Kubernetes + Swarm from a Docker Captain
 - Plan to take an Udemy Course (Already Bought) Ultimate AWS Certified Cloud Practitioner - 2022
