@@ -37,4 +37,4 @@ Data Analysis, Data Analytics, Data Engineering, Data Visualization, Machine Lea
 
 - Visualization on Indigenous Brands and Social Movements
 
-- Visualization on 
+- Visualization of Homeless People in the United States
