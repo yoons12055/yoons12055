@@ -40,7 +40,9 @@ As an **enthusiastic and fast-paced learner**, I am so ready to learn a lot of n
 
 - **[Visualization on Indigenous Brands and Social Movements](https://github.com/yoons12055/Indigenous-Brands-Project)**
 
-- **[Visualization of Homeless People in the United States](https://github.com/yoons12055/Homeless_Visualization)**
+- **[Visualization of Homeless People in the United States through Tableau](https://github.com/yoons12055/Homeless_Visualization)**
+
+- **[Visualization of Finance Report through Power BI]()
 
 ## What I have Self-Taught 
 - **Microsoft Excel**
