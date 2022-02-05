@@ -7,6 +7,10 @@ As an **enthusiastic and fast-paced learner**, I am so ready to learn a lot of n
 
 ## [Resume](https://github.com/yoons12055/yoons12055/blob/main/Jinwoo-Yoon-Resume.pdf)
 
+📫 How to reach me : 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jinwoo-yoon)](https://www.linkedin.com/in/jinwoo-yoon)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yoons12055@gmail.com)](mailto:yoons12055@gmail.com)
+
 ## Interests 
 **Data Analysis, Data Analytics, Data Engineering, Data Visualization, Machine Learning**
 
@@ -25,10 +29,6 @@ As an **enthusiastic and fast-paced learner**, I am so ready to learn a lot of n
   - Tableau, PowerBI, Datawrapper
 - **NoSQL**
   - MongoDB
-
-📫 How to reach me : (Email) yoons12055@gmail.com  /  (LinkedIn) https://www.linkedin.com/in/jinwoo-yoon
-
-
 
 
 ## Projects
