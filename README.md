@@ -34,7 +34,7 @@ As an **enthusiastic and fast-paced learner**, I am so ready to learn a lot of n
 ## Projects
 - **[Predictions on the Confirmed and Death COVID-19 Cases in the US](https://github.com/yoons12055/COVID19-Project)**
 
-- **[Predictions on Wine Quality](https://github.com/yoons12055/Wine-Quality-Project)**
+- **[Predictions on Wine Quality](https://github.com/yoons12055/Data-Analysis-ML-Python-Projects/tree/main/Wine%20Quality%20Analysis)**
 
 - **[Predictions on Scores Scored by University of California Basketball Players](https://github.com/yoons12055/UC-Basketball-Scores-Project)**
 
