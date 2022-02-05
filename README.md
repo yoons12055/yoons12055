@@ -32,17 +32,17 @@ As an **enthusiastic and fast-paced learner**, I am so ready to learn a lot of n
 
 
 ## Projects
-- **[Predictions on the Confirmed and Death COVID-19 Cases in the US](https://github.com/yoons12055/COVID19-Project)**
+- **[Predictions on the Confirmed and Death COVID-19 Cases in the US]()**
 
 - **[Predictions on Wine Quality](https://github.com/yoons12055/Data-Analysis-ML-Python-Projects/tree/main/Wine%20Quality%20Analysis)**
 
-- **[Predictions on Scores Scored by University of California Basketball Players](https://github.com/yoons12055/UC-Basketball-Scores-Project)**
+- **[Predictions on Scores Scored by University of California Basketball Players](https://github.com/yoons12055/Data-Analysis-ML-Python-Projects/tree/main/UC%20Basketball%20Scores)**
 
-- **[Visualization on Indigenous Brands and Social Movements](https://github.com/yoons12055/Indigenous-Brands-Project)**
+- **[Visualization on Indigenous Brands and Social Movements]()**
 
-- **[Visualization of Homeless People in the United States through Tableau](https://github.com/yoons12055/Homeless_Visualization)**
+- **[Visualization of Homeless People in the United States through Tableau]()**
 
-- **[Visualization of Finance Report through Power BI](https://github.com/yoons12055/Finance-Report-PowerBI)**
+- **[Visualization of Finance Report through Power BI]()**
 
 ## What I have Self-Taught 
 - **Microsoft Excel**
