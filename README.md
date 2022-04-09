@@ -1,5 +1,5 @@
 ## About Me!
-👋 Hi, I’m Jinwoo(Roy) Yoon 👀 I am a **rising seinor at University of California, Berkeley, majoring in Data Science, planning to graduate in Spring(May) 2023**. 
+👋 Hi, I’m Jinwoo(Roy) Yoon 👀 I am a **rising seinor at University of California, Berkeley, majoring in Data Science and planning to graduate in Spring(May) 2023**. 
 
 As an **enthusiastic and fast-paced learner**, I am so ready to learn a lot of new skills and technologies. With high aspiration for a career in the data science, I am currently developing my own technical skills through taking courses from Udemy and watching educational Youtube videos while participating in military service in South Korea. I am currently looking for an internship opportunity requiring education from college and by myself. 
 
