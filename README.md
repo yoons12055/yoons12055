@@ -1,5 +1,5 @@
 ## About Me!
-👋 Hi, I’m Jinwoo(Roy) Yoon 👀 I am a **rising seinor at University of California, Berkeley, majoring in Data Science**. 
+👋 Hi, I’m Jinwoo(Roy) Yoon 👀 I am a **rising seinor at University of California, Berkeley, majoring in Data Science, planning to graduate in Spring(May) 2023**. 
 
 As an **enthusiastic and fast-paced learner**, I am so ready to learn a lot of new skills and technologies. With high aspiration for a career in the data science, I am currently developing my own technical skills through taking courses from Udemy and watching educational Youtube videos while participating in military service in South Korea. I am currently looking for an internship opportunity requiring education from college and by myself. 
 
@@ -60,7 +60,7 @@ As an **enthusiastic and fast-paced learner**, I am so ready to learn a lot of n
 - **MySQL & PostgreSQL**
   - Took Udemy Online Courses "The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert" & "The Complete SQL Bootcamp 2022: Go from Zero to Hero"
 - **Data Structures**
-  - Reviewed & Studied through Programiz Website Tutorial
+  - Reviewed & Studied through Programiz Website Tutorial and LeetCode
 - **NoSQL (MongoDB), Data Warehousing, Business Intelligence**
   - Studied through Guru99 Website Tutorial
 
