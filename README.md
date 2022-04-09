@@ -12,7 +12,7 @@ As an **enthusiastic and fast-paced learner**, I am so ready to learn a lot of n
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yoons12055@gmail.com)](mailto:yoons12055@gmail.com)
 
 ## Interests 
-**Data Analysis, Data Analytics, Data Engineering, Data Visualization, Machine Learning**
+**Data Analysis, Data Analytics, Data Engineering, Data Visualization, Software Engineering**
 
 ## Skills
 - **Python**
@@ -68,5 +68,5 @@ As an **enthusiastic and fast-paced learner**, I am so ready to learn a lot of n
 - Plan to take an Udemy Course (Already Bought) **Docker Mastery: with Kubernetes + Swarm from a Docker Captain**
 - Plan to take an Udemy Course (Already Bought) **Ultimate AWS Certified Cloud Practitioner - 2022**
 - Aim to earn **AWS Cloud Practitioner Certification**
-- Plan to study NoSQL(Cassandra) through Guru 99 Website Tutorial
-- After graduation, I am planning to go to **graduate program** in Data Science.
+- Plan to participate **Software Engineer bootcamp at Rithm School** this Summer 2022
+- After graduation, I want to work as a software engineer in the United States or plan to go to **graduate program** in Data Science.
