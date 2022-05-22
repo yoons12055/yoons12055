@@ -12,7 +12,7 @@ As an **enthusiastic and fast-paced learner**, I am so ready to learn a lot of n
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yoons12055@gmail.com)](mailto:yoons12055@gmail.com)
 
 ## Interests 
-**Data Analysis, Data Analytics, Data Engineering, Data Visualization, Software Engineering**
+**Data Analysis, Data Analytics, Data Engineering, Data Visualization, Software Engineering, App Development**
 
 ## Skills
 - **Python**
@@ -47,8 +47,6 @@ As an **enthusiastic and fast-paced learner**, I am so ready to learn a lot of n
 ## What I have Self-Taught 
 - **Microsoft Excel**
   - Took an Udemy Online Course "Microsoft Excel - Excel from Beginner to Advanced"
-
-
 - **R Programming**
   - Took an Udemy Online Course "R Programming A-Z™: R For Data Science With Real Exercises!" 
 - **Tableau**
@@ -64,9 +62,12 @@ As an **enthusiastic and fast-paced learner**, I am so ready to learn a lot of n
 - **NoSQL (MongoDB), Data Warehousing, Business Intelligence**
   - Studied through Guru99 Website Tutorial
 
+## Current
+- Work as a software engineer intern at **Bank of America** in Summer 2022 (App Development)
+- Studying IOS Development with Swift and Xcode through **iOS & Swift - The Complete iOS App Development Bootcamp**
+
 ## Plans
-- Plan to take an Udemy Course (Already Bought) **Docker Mastery: with Kubernetes + Swarm from a Docker Captain**
-- Plan to take an Udemy Course (Already Bought) **Ultimate AWS Certified Cloud Practitioner - 2022**
+- Plan to take an Udemy Course  **Docker Mastery: with Kubernetes + Swarm from a Docker Captain**
+- Plan to take an Udemy Course  **Ultimate AWS Certified Cloud Practitioner - 2022**
 - Aim to earn **AWS Cloud Practitioner Certification**
-- Plan to participate **Software Engineer bootcamp at Rithm School** this Summer 2022
 - After graduation, I want to work as a software engineer in the United States or plan to go to **graduate program** in Data Science.
