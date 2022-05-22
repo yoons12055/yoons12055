@@ -64,7 +64,7 @@ As an **enthusiastic and fast-paced learner**, I am so ready to learn a lot of n
 
 ## Current
 - Work as a software engineer intern at **Bank of America** in Summer 2022 (App Development)
-- Studying IOS Development with Swift and Xcode through **iOS & Swift - The Complete iOS App Development Bootcamp**
+- Studying IOS Development with Swift and Xcode through an Udemy Course **iOS & Swift - The Complete iOS App Development Bootcamp**
 
 ## Plans
 - Plan to take an Udemy Course  **Docker Mastery: with Kubernetes + Swarm from a Docker Captain**
