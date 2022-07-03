@@ -54,10 +54,6 @@ As an **enthusiastic and fast-paced learner**, I am so ready to learn a lot of n
 - **Data Structures** : Reviewed & Studied through Programiz Website Tutorial and LeetCode
 - **NoSQL (MongoDB), Data Warehousing, Business Intelligence** : Studied through Guru99 Website Tutorial
 
-## Certificates
-The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert : https://www.udemy.com/certificate/UC-628f7c55-81ca-4899-9555-a06d4b88fe9c/
-Microsoft Excel - Excel from Beginner to Advanced : https://www.udemy.com/certificate/UC-d35dc18c-93af-4e79-9ebe-64eae64c7979/
-
 ## What I am doing
 - Work as a Software Engineer Intern at **Bank of America** in Summer 2022 (iOS Mobile App Development)
 - Studying IOS Development with Swift and Xcode through an Udemy Course **iOS & Swift - The Complete iOS App Development Bootcamp**
