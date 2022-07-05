@@ -53,10 +53,10 @@ As an **enthusiastic and fast-paced learner**, I am so ready to learn a lot of n
 - **MySQL & PostgreSQL** : Took Udemy Online Courses "The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert" & "The Complete SQL Bootcamp 2022: Go from Zero to Hero"
 - **Data Structures** : Reviewed & Studied through Programiz Website Tutorial and LeetCode
 - **NoSQL (MongoDB), Data Warehousing, Business Intelligence** : Studied through Guru99 Website Tutorial
+- **Swift & iOS Development** : Took an Udemy Online Course "iOS & Swift - The Complete iOS App Development Bootcamp"
 
 ## What I am doing
 - Work as a Software Engineer Intern at **Bank of America** in Summer 2022 (iOS Mobile App Development)
-- Studying IOS Development with Swift and Xcode through an Udemy Course **iOS & Swift - The Complete iOS App Development Bootcamp**
 
 ## Plans
 - Plan to take an Udemy Course  **Docker Mastery: with Kubernetes + Swarm from a Docker Captain**
