@@ -15,20 +15,14 @@ As an **enthusiastic and fast-paced learner**, I am so ready to learn a lot of n
 **Data Analysis, Data Analytics, Data Engineering, Data Visualization, Software Engineering, App Development**
 
 ## Skills
-- **Python**
-  - NumPy, Pandas, SciPy, Scikit-learn, Seaborn, Matplotlib
-- **R** 
-  - R-Studio
-- **Java** 
-  - Intellij IDEA
-- **Microsoft Office**
-  - Word, Excel, Powerpoint
-- **SQL**
-  - MySQL, PostgreSQL
-- **Data Visualization**
-  - Tableau, PowerBI, Datawrapper
-- **NoSQL**
-  - MongoDB
+- **Python** : NumPy, Pandas, SciPy, Scikit-learn, Seaborn, Matplotlib
+- **R** : R-Studio
+- **Java** : Intellij IDEA
+- **Microsoft Office** : Word, Excel, Powerpoint, Outlook
+- **SQL** : MySQL, PostgreSQL
+- **Data Visualization** : Tableau, PowerBI, Datawrapper
+- **NoSQL** : MongoDB
+- **iOS Development** : Swift, XCode
 
 
 ## Projects
