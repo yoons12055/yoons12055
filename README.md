@@ -26,6 +26,8 @@ As an **enthusiastic and fast-paced learner**, I am so ready to learn a lot of n
 
 
 ## Projects
+- **[Bitcoin Exchange Rate Converter](https://github.com/yoons12055/Bitcoin-Exchange-Rate-Converter)**
+
 - **[Predictions on the Confirmed and Death COVID-19 Cases in the US](https://github.com/yoons12055/Data-Analysis-ML-Python-Projects/tree/main/COVID19%20Analysis%20Project )**
 
 - **[Predictions on Wine Quality](https://github.com/yoons12055/Data-Analysis-ML-Python-Projects/tree/main/Wine%20Quality%20Analysis)**
