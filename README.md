@@ -51,9 +51,6 @@ As an **enthusiastic and fast-paced learner**, I am so ready to learn a lot of n
 - **NoSQL (MongoDB), Data Warehousing, Business Intelligence** : Studied through Guru99 Website Tutorial
 - **Swift & iOS Development** : Took an Udemy Online Course "iOS & Swift - The Complete iOS App Development Bootcamp"
 
-## What I am doing
-- Work as a Software Engineer Intern at **Bank of America** in Summer 2022 (iOS Mobile App Development)
-
 ## Plans
 - Plan to take an Udemy Course  **Docker Mastery: with Kubernetes + Swarm from a Docker Captain**
 - Plan to take an Udemy Course  **Ultimate AWS Certified Cloud Practitioner - 2022** and aim to earn **AWS Cloud Practitioner Certification**
