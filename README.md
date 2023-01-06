@@ -26,7 +26,7 @@ As an **enthusiastic and fast-paced learner**, I am so ready to learn a lot of n
 
 
 ## Projects
-- **[University of California Berkeley ULab Database Design Project]()**
+- **[University of California Berkeley ULab Database Design Project](https://github.com/yoons12055/Data-Science-Projects/blob/main/ULab%20Database%20Design%20Project/Copy%20of%20Final%20Report.pdf)**
 
 - **[Bitcoin Exchange Rate Converter](https://github.com/yoons12055/Bitcoin-Exchange-Rate-Converter)**
 
