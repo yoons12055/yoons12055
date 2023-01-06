@@ -1,7 +1,7 @@
 ## About Me!
-👋 Hi, I’m Jinwoo(Roy) Yoon 👀 I am a **rising seinor at University of California, Berkeley, majoring in Data Science and planning to graduate in Spring(May) 2023**. 
+👋 Hi, I’m Jinwoo(Roy) Yoon 👀 I am a **seinor at University of California, Berkeley, majoring in Data Science and planning to graduate in May 2023**. 
 
-As an **enthusiastic and fast-paced learner**, I am so ready to learn a lot of new skills and technologies. With high aspiration for a career in the data science, I am currently developing my own technical skills through taking courses from Udemy and watching educational Youtube videos while participating in military service in South Korea. I am currently looking for an internship opportunity requiring education from college and by myself. 
+As an **enthusiastic and fast-paced learner**, I am so ready to learn a lot of new skills and technologies. With high aspiration for a career in the software engineering and data science, I am consistenly developing my own technical skills through taking courses at my college and and watching educational Youtube videos. I am currently looking for full-time job opportunities starting this July or August, specifically software engineer, data engineer, and iOS developer.
 
 ### No Sponsorship Needed! I am a Green Card Holder.
 
@@ -12,7 +12,7 @@ As an **enthusiastic and fast-paced learner**, I am so ready to learn a lot of n
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yoons12055@gmail.com)](mailto:yoons12055@gmail.com)
 
 ## Interests 
-**Data Analysis, Data Analytics, Data Engineering, Data Visualization, Software Engineering, App Development**
+**Data Analysis, Data Engineering, Data Visualization, Software Engineering, App Development**
 
 ## Skills
 - **Python** : NumPy, Pandas, SciPy, Scikit-learn, Seaborn, Matplotlib
