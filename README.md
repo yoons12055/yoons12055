@@ -26,6 +26,8 @@ As an **enthusiastic and fast-paced learner**, I am so ready to learn a lot of n
 
 
 ## Projects
+- **[University of California Berkeley ULab Database Design Project]()**
+
 - **[Bitcoin Exchange Rate Converter](https://github.com/yoons12055/Bitcoin-Exchange-Rate-Converter)**
 
 - **[Predictions on the Confirmed and Death COVID-19 Cases in the US](https://github.com/yoons12055/Data-Analysis-ML-Python-Projects/tree/main/COVID19%20Analysis%20Project )**
@@ -54,4 +56,4 @@ As an **enthusiastic and fast-paced learner**, I am so ready to learn a lot of n
 ## Plans
 - Plan to take an Udemy Course  **Docker Mastery: with Kubernetes + Swarm from a Docker Captain**
 - Plan to take an Udemy Course  **Ultimate AWS Certified Cloud Practitioner - 2022** and aim to earn **AWS Cloud Practitioner Certification**
-- After graduation, I want to work as a software engineer in the United States or plan to go to **graduate program** in Data Science.
+- After graduation, I want to work as a software engineer or data engineer in the United States.
