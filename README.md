@@ -1,18 +1,13 @@
 ## About Me!
-👋 Hi, I’m Jinwoo(Roy) Yoon 👀 I am a **seinor at University of California, Berkeley, majoring in Data Science and planning to graduate in May 2023**. 
+👋 Hi, I’m Jinwoo(Roy) Yoon 👀 I am a **software engineer at Bank of America and alumni of University of California, Berkeley - Class of 2023.**. 
 
-As an **enthusiastic and fast-paced learner**, I am so ready to learn a lot of new skills and technologies. With high aspiration for a career in the software engineering and data science, I am consistenly developing my own technical skills through taking courses at my college and and watching educational Youtube videos. I am currently looking for full-time job opportunities starting this July or August, specifically software engineer, data engineer, and iOS developer.
-
-### No Sponsorship Needed! I am a Green Card Holder.
+As an **enthusiastic and fast-paced learner**, I am so ready to learn a lot of new skills and technologies. With high aspiration for a career in the software engineering and data science, I am consistenly developing my own technical skills through taking courses at my college and and watching educational Youtube videos. 
 
 ## [Resume](https://github.com/yoons12055/yoons12055/blob/main/Jinwoo-Yoon-Resume.pdf)
 
 📫 How to reach me : 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jinwoo-yoon)](https://www.linkedin.com/in/jinwoo-yoon)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yoons12055@gmail.com)](mailto:yoons12055@gmail.com)
-
-## Interests 
-**Data Analysis, Data Engineering, Data Visualization, Software Engineering, App Development**
 
 ## Skills
 - **Python** : NumPy, Pandas, SciPy, Scikit-learn, Seaborn, Matplotlib
@@ -52,8 +47,3 @@ As an **enthusiastic and fast-paced learner**, I am so ready to learn a lot of n
 - **Data Structures** : Reviewed & Studied through Programiz Website Tutorial and LeetCode
 - **NoSQL (MongoDB), Data Warehousing, Business Intelligence** : Studied through Guru99 Website Tutorial
 - **Swift & iOS Development** : Took an Udemy Online Course "iOS & Swift - The Complete iOS App Development Bootcamp"
-
-## Plans
-- Plan to take an Udemy Course  **Docker Mastery: with Kubernetes + Swarm from a Docker Captain**
-- Plan to take an Udemy Course  **Ultimate AWS Certified Cloud Practitioner - 2022** and aim to earn **AWS Cloud Practitioner Certification**
-- After graduation, I want to work as a software engineer or data engineer in the United States.
