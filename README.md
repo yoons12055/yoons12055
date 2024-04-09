@@ -46,4 +46,4 @@ As an **enthusiastic and fast-paced learner**, I am so ready to learn a lot of n
 - **MySQL & PostgreSQL** : Took Udemy Online Courses "The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert" & "The Complete SQL Bootcamp 2022: Go from Zero to Hero"
 - **Data Structures** : Reviewed & Studied through Programiz Website Tutorial and LeetCode
 - **NoSQL (MongoDB), Data Warehousing, Business Intelligence** : Studied through Guru99 Website Tutorial
-- **Swift & iOS Development[![https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white]]** : Took an Udemy Online Course "iOS & Swift - The Complete iOS App Development Bootcamp"
+- **Swift & iOS Development[![iOS Badge](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)]** : Took an Udemy Online Course "iOS & Swift - The Complete iOS App Development Bootcamp"
