@@ -4,7 +4,7 @@
 As an **enthusiastic and fast-paced learner**, I am so ready to learn a lot of new skills and technologies. With high aspiration for a career in the software engineering and data science, I am consistenly developing my own technical skills through taking courses at my college and and watching educational Youtube videos. 
 
 ## [Resume](https://github.com/yoons12055/yoons12055/blob/main/Jinwoo-Yoon-Resume.pdf)
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+
 📫 How to reach me : 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoons12055/)
 [![Gmail Badge]((https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white))](mailto:yoons12055@gmail.com)
