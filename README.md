@@ -38,7 +38,7 @@ As an **enthusiastic and fast-paced learner**, I am so ready to learn a lot of n
 - **[Visualization of Finance Report through Power BI](https://github.com/yoons12055/Data-Visualization-Projects/tree/main/Finance%20Report)**
 
 ## What I have Self-Taught 
-- **xcel** : Took an Udemy Online Course "Microsoft Excel - Excel from Beginner to Advanced"
+- **Excel** : Took an Udemy Online Course "Microsoft Excel - Excel from Beginner to Advanced"
 - **R** : Took an Udemy Online Course "R Programming A-Z™: R For Data Science With Real Exercises!" 
 - **Tableau** : Watched a youtube video "Tableau Full Course - Learn Tableau in 6 Hours | Tableau Training for Beginners | Edureka"
 - **Power BI** : Watched a youtube video "Power BI Tutorial From Beginner to Pro"
