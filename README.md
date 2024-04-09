@@ -1,5 +1,5 @@
 ## About Me!
-👋 Hi, I’m Jinwoo(Roy) Yoon 👀 I am a **iOS developer at Bank of America and alumni of University of California, Berkeley - Class of 2023.** 
+👋 Hi, I’m Jinwoo(Roy) Yoon 👀 I am a **iOS developer at Bank of America** and alumni of University of California, Berkeley. 
 
 As an **enthusiastic and fast-paced learner**, I am so ready to learn a lot of new skills and technologies. With high aspiration for a career in the software engineering and data science, I am consistenly developing my own technical skills through taking courses at my college and and watching educational Youtube videos. 
 
