@@ -21,7 +21,7 @@ As an **enthusiastic and fast-paced learner**, I am so ready to learn a lot of n
 
 
 ## Projects
-- **[University of California Berkeley ULab Database Design Project](https://github.com/yoons12055/Data-Science-Projects/blob/main/ULab%20Database%20Design%20Project/Copy%20of%20Final%20Report.pdf)**
+- **[![]][University of California Berkeley ULab Database Design Project](https://github.com/yoons12055/Data-Science-Projects/blob/main/ULab%20Database%20Design%20Project/Copy%20of%20Final%20Report.pdf)**
 
 - **[Bitcoin Exchange Rate Converter](https://github.com/yoons12055/Bitcoin-Exchange-Rate-Converter)**
 
@@ -46,4 +46,4 @@ As an **enthusiastic and fast-paced learner**, I am so ready to learn a lot of n
 - **MySQL & PostgreSQL** : Took Udemy Online Courses "The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert" & "The Complete SQL Bootcamp 2022: Go from Zero to Hero"
 - **Data Structures** : Reviewed & Studied through Programiz Website Tutorial and LeetCode
 - **NoSQL (MongoDB), Data Warehousing, Business Intelligence** : Studied through Guru99 Website Tutorial
-- **Swift & iOS Development** : Took an Udemy Online Course "iOS & Swift - The Complete iOS App Development Bootcamp"
+- **Swift & iOS Development[![https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white]]** : Took an Udemy Online Course "iOS & Swift - The Complete iOS App Development Bootcamp"
