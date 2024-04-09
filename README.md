@@ -7,7 +7,7 @@ As an **enthusiastic and fast-paced learner**, I am so ready to learn a lot of n
 
 📫 How to reach me : 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoons12055/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yoons12055@gmail.com)](mailto:yoons12055@gmail.com)
+[![Gmail Badge]([https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yoons12055@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white))](mailto:yoons12055@gmail.com)
 
 ## Skills
 - **Python** : NumPy, Pandas, SciPy, Scikit-learn, Seaborn, Matplotlib
