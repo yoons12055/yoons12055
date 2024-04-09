@@ -6,8 +6,7 @@ As an **enthusiastic and fast-paced learner**, I am so ready to learn a lot of n
 ## [Resume](https://github.com/yoons12055/yoons12055/blob/main/Jinwoo-Yoon-Resume.pdf)
 
 📫 How to reach me : 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/yoons12055)
-&nbsp;
+[![Linkedin]([https://i.stack.imgur.com/gVE0j.png](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)) LinkedIn](https://www.linkedin.com/in/yoons12055)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yoons12055@gmail.com)](mailto:yoons12055@gmail.com)
 
 ## Skills
